@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Andreu Gallfré, a Software Engineering student at _Universitat Politècnica de catalunya_ , I'm a Hackathon enthusiast and I've traveled around the world being part of the greatest student hackathons in the world. Also, I'm director of the HackerXperience department at our local hackathon HackUPC
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Since I finished my previous studies I've been part of the Cloud computing world, having me the chance to try and use the most cutting-edge technologies to build both personal projects and as my career thanks to CAPSiDE and Nexica. 
