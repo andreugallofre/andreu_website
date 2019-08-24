@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Andreu Gallofré
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Devops engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CAPSiDE an NTT Company
+  url: "http://www.capside.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
