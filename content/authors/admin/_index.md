@@ -21,21 +21,23 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Cloud Computing
+- Cryptocurrencies
+- OpenSource
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Software Engineering
+    institution: Universitat Politècnica de Catalunya
+    year: 2020
+  - course: HNC in System administration and Networking
+    institution: Salessians de Sarrià
+    year: 2015
+  - course: VET in Microinformatics
+    institution: Joan Pelegrí
+    year: 2013
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
