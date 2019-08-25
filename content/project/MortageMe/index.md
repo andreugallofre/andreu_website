@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EasyBicing"
+title: "MortageMe!"
 summary: |
   Chatbot technology in order to make mortgage advisers virtual for the initial screening process
 authors: [ Jevgenij Chomutovskij, Usman Ijaz, Yijie Xu, Andreu Gallofré ]
