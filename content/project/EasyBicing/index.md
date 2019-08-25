@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Bigotes"
+title: "EasyBicing"
 summary: |
-  Web application with node.js, Html and CSS to solve the problems that bicing users usually have, for that we implemented real-time and history functionality..
+  Web application with node.js, Html and CSS to solve the problems that bicing users usually have,
 authors: [ Bernat Torres, Victor Sanchez, Andreu Gallofre ]
 tags: [ code, website, noode.js ]
 categories: [ source ]
