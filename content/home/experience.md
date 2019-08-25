@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   date_end = "2018-02-15"
   description = """Developer of the corporative application: 
 
--Java EE, CDI, JPA , JSF/Primefaces, Spring, Hibernate, JMS 
--Eclipse, Maven, Subversion, Sonar"""
+- Java EE, CDI, JPA , JSF/Primefaces, Spring, Hibernate, JMS 
+- Eclipse, Maven, Subversion, Sonar"""
 
 [[experience]]
   title = "IT Support Engineer"
