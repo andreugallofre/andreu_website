@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2018-11-20"
   date_end = "2018-11-21"
   description = "Semic challenge award - HackEPS 2018 - First team to solve completly the algorithmic challenge proposed by Semic"
-  
+
 [[item]]
   organization = "Telefonica"
   organization_url = "http://carnetbarcelona.com/hackathon2018/"
