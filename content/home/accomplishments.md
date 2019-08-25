@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = "https://devpost.com/software/semic-challenge"
   certificate_url = ""
   date_start = "2018-11-20"
-  date_end = "2018-11-21"
+  date_end = ""
   description = "Semic challenge award - HackEPS 2018 - First team to solve completly the algorithmic challenge proposed by Semic"
 
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = "https://github.com/atsuky/EasyBicing"
   certificate_url = ""
   date_start = "2018-03-05"
-  date_end = "2018-03-11"
+  date_end = ""
   description = "Winners of HackMobility - ThinkBig by Telefonica Prize"
 
 [[item]]
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   url = "http://dvp.st/2miyxbP"
   certificate_url = ""
   date_start = "2017-03-26"
-  date_end = "2017-03-28"
+  date_end = ""
   description = "Barclays challenge award - StudentHack V - Android APP MortageMe! that helps people to hire their mortage with the bank"
 
 +++
