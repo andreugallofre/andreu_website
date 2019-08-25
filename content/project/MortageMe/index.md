@@ -3,7 +3,7 @@
 
 title: "EasyBicing"
 summary: |
-  chatbot technology in order to make mortgage advisers virtual for the initial screening process
+  Chatbot technology in order to make mortgage advisers virtual for the initial screening process
 authors: [ Jevgenij Chomutovskij, Usman Ijaz, Yijie Xu, Andreu Gallofré ]
 tags: [ java, android, banking, Barclays ]
 categories: [ source ]

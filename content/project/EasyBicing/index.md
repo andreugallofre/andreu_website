@@ -4,7 +4,7 @@
 title: "EasyBicing"
 summary: |
   Web application with node.js, Html and CSS to solve the problems that bicing users usually have
-authors: [ Bernat Torres, Victor Sanchez, Andreu Gallofre ]
+authors: [ Bernat Torres, Víctor Sanchez, Andreu Gallofre ]
 tags: [ code, website, noode.js ]
 categories: [ source ]
 date: 2018-11-11T11:23:56+02:00
