@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = ""
+subtitle = "& Prizes"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "JacobsHack"
+  organization_url = "https://jacobshack.com/"
+  title = "Best hack hosted on domain.com & Category Winner"
+  certificate_url = ""
+  url = "https://devpost.com/software/betyourdignity-lrshvz"
+  date_start = "2018-11-06"
   date_end = ""
-  description = ""
+  description = "Best hack hosted on domain.com & Category Winner at JacobsHack! For the game "Bet your dignity" that uses the instagram API to make a funny 1 vs 1 game!"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "HackEPS & Semic"
+  organization_url = "https://www.semic.es/"
+  title = "Semic Prize - HackEPS 2018"
+  url = "https://devpost.com/software/semic-challenge"
+  certificate_url = ""
+  date_start = "2018-11-20"
+  date_end = "2018-11-21"
+  description = "Semic challenge award - HackEPS 2018 - First team to solve completly the algorithmic challenge proposed by Semic"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Telefonica"
+  organization_url = "http://carnetbarcelona.com/hackathon2018/"
+  title = "Winner ThinkBig by Telefonica at HackMobility BCN"
+  url = "https://github.com/atsuky/EasyBicing"
+  certificate_url = ""
+  date_start = "2018-03-05"
+  date_end = "2018-03-11"
+  description = "Winners of HackMobility - ThinkBig by Telefonica Prize"
+
+[[item]]
+  organization = "StudentHack"
+  organization_url = "https://www.studenthack.com/"
+  title = "Winner of Barclays challenge - StudentHack V"
+  url = "http://dvp.st/2miyxbP"
+  certificate_url = ""
+  date_start = "2017-03-26"
+  date_end = "2017-03-28"
+  description = "Barclays challenge award - StudentHack V - Android APP MortageMe! that helps people to hire their mortage with the bank"
 
 +++
