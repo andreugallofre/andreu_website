@@ -3,9 +3,9 @@
 
 title: "EasyBicing"
 summary: |
-  Web application with node.js, Html and CSS to solve the problems that bicing users usually have
-authors: [ Bernat Torres, Victor Sanchez, Andreu Gallofre ]
-tags: [ code, website, noode.js ]
+  chatbot technology in order to make mortgage advisers virtual for the initial screening process, giving information to applications without having to go for a face-to-face meeting at a bank
+authors: [ Jevgenij Chomutovskij, Usman Ijaz, Yijie Xu, Andreu Gallofré ]
+tags: [ java, android, banking, Barclays ]
 categories: [ source ]
 date: 2018-11-11T11:23:56+02:00
 
@@ -19,13 +19,13 @@ image:
  preview_only: false
 
 # Links
-url_code: "https://github.com/atsuky/EasyBicing"
+url_code: "https://devpost.com/software/mortgageme"
 url_pdf: ""
 url_slides: ""
 url_video: ""
 links:
 - name: GitHub
-  url: https://github.com/atsuky/EasyBicing
+  url: https://github.com/EXJUSTICE/Barclays-MortgageMe
   icon_pack: fab
   icon: github
 
