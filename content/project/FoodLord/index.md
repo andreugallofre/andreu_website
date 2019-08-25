@@ -35,7 +35,6 @@ slides: ""
 
 # Food Lord
 
-[![HitCount](http://hits.dwyl.io/atsuky/foodlord.svg)](http://hits.dwyl.io/atsuky/foodlord)
 [![GitHub stars](https://img.shields.io/github/stars/atsuky/foodlord.svg)](https://GitHub.com/atsuky/foodlord/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/atsuky/foodlord.svg)](https://GitHub.com/atsuky/foodlord/network/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/atsuky/foodlord.svg)](https://github.com/atsuky/foodlord)
