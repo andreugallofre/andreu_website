@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   url = "https://devpost.com/software/betyourdignity-lrshvz"
   date_start = "2018-11-06"
   date_end = ""
-  description = "Best hack hosted on domain.com & Category Winner at JacobsHack! For the game "Bet your dignity" that uses the instagram API to make a funny 1 vs 1 game!"
+  description = ""
 
 [[item]]
   organization = "HackEPS & Semic"
