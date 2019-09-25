@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I'm Andreu Gallofré, a Software Engineering student at _Universitat Politècnica de catalunya_ , I'm a Hackathon enthusiast and I've traveled around the world being part of the greatest student hackathons in the world. Also, I'm director of the HackerXperience department at our local hackathon HackUPC
+I'm Andreu Gallofré, a Software Engineering student at _Universitat Politècnica de catalunya_ , I'm a Hackathon enthusiast and I've traveled around the world being part of the greatest student hackathons in the world. Also, I'm director of the HackerXperience department at HackUPC, the biggest student hackathon in Europe
 
 Since I finished my previous studies I've been part of the Cloud computing world, having me the chance to try and use the most cutting-edge technologies to build both personal projects and as my career thanks to CAPSiDE and Nexica. 
