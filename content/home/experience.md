@@ -18,12 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Engineer"
+  company = "NTT Managed Services Iberia"
+  company_url = "https://hello.global.ntt/"
+  location = "Barcelona, Spain"
+  date_start = "2020-02-01"
+  date_end = ""
+  description = """Part of the software development team, in charge of developing new tools for the company, both internal and IP 
+
+  Main Languages:
+
+  * Python
+  * Golang
+  * Perl
+
+  Cloud Technologies:
+
+  * Amazon Web Services
+  * Azure
+  * Google Cloud
+  * Kubernetes
+  """
+
+[[experience]]
   title = "Devops Engineer"
-  company = "CAPSiDE"
+  company = "CAPSiDE | NTT"
   company_url = "https://capside.com"
   location = "Barcelona, Spain"
   date_start = "2018-02-18"
-  date_end = ""
+  date_end = "2020-02-01"
   description = """Part of the internal project teams, in charge of developing new tools to help the engineering team perform their work better
 
   Main Languages:
