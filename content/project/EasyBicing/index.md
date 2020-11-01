@@ -19,13 +19,13 @@ image:
  preview_only: false
 
 # Links
-url_code: "https://github.com/atsuky/EasyBicing"
+url_code: "https://github.com/andreugallofre/EasyBicing"
 url_pdf: ""
 url_slides: ""
 url_video: ""
 links:
 - name: GitHub
-  url: https://github.com/atsuky/EasyBicing
+  url: https://github.com/andreugallofre/EasyBicing
   icon_pack: fab
   icon: github
 
