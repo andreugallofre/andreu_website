@@ -25,7 +25,7 @@ url_slides: ""
 url_video: ""
 links:
 - name: GitHub
-  url: https://github.com/atsuky/foodlord/
+  url: https://github.com/andreugallofre/foodlord/
   icon_pack: fab
   icon: github
 
@@ -135,7 +135,7 @@ To run the whole stack, please execute the following from the root directory:
 
 - [Carlota Catot](https://github.com/carlotacb)
 - [Fèlix Arribas](https://github.com/felixarpa)
-- [Andreu Gallofre](https://github.com/atsuky)
+- [Andreu Gallofre](https://github.com/andreugallofre)
 - [Albert Suàrez](https://github.com/AlbertSuarez)
 
 ## License

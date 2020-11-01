@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Devops engineer
+role: Software engineer
 
 # Organizations/Affiliations
 organizations:
-- name: CAPSiDE an NTT Company
-  url: "http://www.capside.com"
+- name: NTT Ltd.
+  url: "https://hello.global.ntt/en-us/products-and-services/managed-services"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Software Engineering graduate from Universitat Politècnica de Catalunya, currently working at NTT.
 
 interests:
 - Cloud Computing
@@ -52,7 +52,7 @@ social:
   link: https://twitter.com/andreugallofre
 - icon: github
   icon_pack: fab
-  link: https://github.com/atsuky
+  link: https://github.com/andreugallofre
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I'm Andreu Gallofré, a Software Engineering student at _Universitat Politècnica de catalunya_ , I'm a Hackathon enthusiast and I've traveled around the world being part of the greatest student hackathons in the world. Also, I'm director of the HackerXperience department at HackUPC, the biggest student hackathon in Europe
+I’m Andreu Gallofré, a Software Engineering graduate from Universitat Politècnica de Catalunya , I’m a Hackathon enthusiast and I’ve traveled around the world being part of the greatest student hackathons. Also, I’m part of HackUPC, the biggest student hackathon in Europe.
 
 Since I finished my previous studies I've been part of the Cloud computing world, having me the chance to try and use the most cutting-edge technologies to build both personal projects and as my career thanks to CAPSiDE and Nexica. 

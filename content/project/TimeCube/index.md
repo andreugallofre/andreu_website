@@ -25,7 +25,7 @@ url_slides: ""
 url_video: ""
 links:
 - name: GitHub
-  url: https://github.com/atsuky/timecube
+  url: https://github.com/andreugallofre/timecube
   icon_pack: fab
   icon: github
 
